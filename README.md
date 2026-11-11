@@ -1,4 +1,4 @@
-# APEX GP 赛车经理 — Android 安装包
+# Android 安装包
 
 本仓库只用于公开分发 Android APK。
 
